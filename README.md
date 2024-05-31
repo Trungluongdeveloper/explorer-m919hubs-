@@ -1,7 +1,5 @@
 <div align="center">
 
-![Ping Wallet]
-
 <h1>XSS Labs Explorer</h1>
 
 **XSS Labs is not only an explorer but also a wallet and more ... 🛠**
