@@ -31,7 +31,4 @@ There are two primary reasons for this choice:
  - Limited Resources: As Ping Dashboard plans to list hundreds of Cosmos-based blockchains in the future, it is impractical for the Ping team to operate validators or full nodes for all of them. Leveraging trusted third-party servers allows for more efficient resource allocation.
 
 
-## Contributors
-
-Developers: @liangping @dingyiming
 
