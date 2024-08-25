@@ -187,7 +187,7 @@ function callFunction(title: string, method: string, arg: Argument) {
         <div role="tablist" class="tabs tabs-boxed">
           <a role="tab" class="tab tooltip tooltip-right tooltip-success" data-tip="Powered By  XSS Labs">
             <div class="w-8 rounded">
-              <img src="https://i.ibb.co/mtGtdjk/photo-2024-05-02-10-21-36.jpg"  alt="Powered By XSS Labs"/>
+              <img src="https://i.ibb.co/1Xz4yhp/favicon-11zon.jpg"  alt="Powered By XSS Labs"/>
             </div>
           </a>
           <a role="tab" class="tab" :class="{'tab-active': tab==='verification'}" @click="selectTab('verification')">Verification</a>
