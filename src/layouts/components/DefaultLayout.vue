@@ -80,7 +80,7 @@ dayjs()
     >
       <div class="flex justify-between mt-1 pl-4 py-4 mb-1">
         <RouterLink to="/" class="flex items-center">
-          <img class="w-10 h-10" src="https://i.ibb.co/mtGtdjk/photo-2024-05-02-10-21-36.jpg" />
+          <img class="w-10 h-10" src="https://i.ibb.co/1Xz4yhp/favicon-11zon.jpg" />
           <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">
             XSS Labs
           </h1>
