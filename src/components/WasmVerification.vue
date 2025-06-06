@@ -185,9 +185,9 @@ function callFunction(title: string, method: string, arg: Argument) {
 <template>
     <div class="bg-base-100 px-4 pt-3 pb-4 rounded mb-4 shadow">
         <div role="tablist" class="tabs tabs-boxed">
-          <a role="tab" class="tab tooltip tooltip-right tooltip-success" data-tip="Powered By  XSS Labs">
+          <a role="tab" class="tab tooltip tooltip-right tooltip-success" data-tip="Powered By  M919 hubs ">
             <div class="w-8 rounded">
-              <img src="https://i.ibb.co/1Xz4yhp/favicon-11zon.jpg"  alt="Powered By XSS Labs"/>
+              <img src="https://i.ibb.co/Z6pq2yRs/image-6.jpg"  alt="Powered By M919 hubs "/>
             </div>
           </a>
           <a role="tab" class="tab" :class="{'tab-active': tab==='verification'}" @click="selectTab('verification')">Verification</a>

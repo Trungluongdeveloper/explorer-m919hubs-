@@ -1,11 +1,11 @@
 <div align="center">
 
-<h1>XSS Labs Explorer</h1>
+<h1>M919 Hubs Explorer</h1>
 
-**XSS Labs is not only an explorer but also a wallet and more ... 🛠**
+**M919 hubs is not only an explorer but also a wallet and more ... 🛠**
 
 
 </div>
 
-`XSS Labs Explorer` is a light explorer for Cosmos-based Blockchains.  https://explorer.xsslabs.tech  .
+`M919 hubs Explorer` is a light explorer for Cosmos-based Blockchains.  https://explorer.m919hubs.online  .
 

@@ -14,7 +14,7 @@
         href="https://explorer.xsslabs.tech"
         target="_blank"
         rel="noopener noreferrer"
-        >XSS Labs </a
+        >M919 hubs  </a
       >
     </div>
     <div
@@ -23,7 +23,7 @@
       
       <a
         class="link link-primary no-underline"
-        href="https://github.com/Gpaul26/explorer"
+        href="https://github.com/calvinqta"
         target="noopener noreferrer"
         >Github</a
       >
