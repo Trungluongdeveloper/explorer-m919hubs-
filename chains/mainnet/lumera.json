@@ -2,10 +2,10 @@
     "chain_name": "LUMERA",
     "coingecko": "LUMERA",
     "api": [
-        {"provider": "XSS-Labs", "address": "https://api-lumera-testnet.xsslabs.tech/"}
+        {"provider": "M919 hubs", "address": "https://api-lumera.m919hubs.online/"}
     ],
     "rpc": [
-        {"provider": "XSS-Labs", "address": "https://rpc-lumera-testnet.xsslabs.tech/"}
+        {"provider": "M919 hubs", "address": "https://rpc-lumera.m919hubs.online/"}
     ],
     "snapshot_provider": "",
     "sdk_version": "0.45.9",
